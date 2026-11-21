@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Свет ZTOE</string>
+    <string name="app_name">да будет свет</string>
     <string name="channel_warning_name">Предупреждения об отключении</string>
     <string name="channel_warning_desc">Уведомления заранее перед плановым отключением света</string>
     <string name="channel_update_name">Изменения графика</string>
