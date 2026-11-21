@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Свет ZTOE</string>
+    <string name="channel_warning_name">Предупреждения об отключении</string>
+    <string name="channel_warning_desc">Уведомления заранее перед плановым отключением света</string>
+    <string name="channel_update_name">Изменения графика</string>
+    <string name="channel_update_desc">Уведомления при обновлении графика отключений на сайте ZTOE</string>
+</resources>

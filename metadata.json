@@ -1,0 +1,6 @@
+{
+  "name": "Свет ZTOE",
+  "description": "Мониторинг графиков отключения света Житомироблэнерго (ZTOE) с обратным отсчётом и уведомлениями",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
