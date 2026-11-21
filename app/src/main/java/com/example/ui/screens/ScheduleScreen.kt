@@ -321,7 +321,7 @@ private fun DashboardHeader(
     ) {
         Column(modifier = Modifier.weight(1f)) {
             Text(
-                text = "Свет ZTOE",
+                text = "Да будет свет",
                 style = MaterialTheme.typography.headlineMedium,
                 color = MaterialTheme.colorScheme.onBackground,
             )
